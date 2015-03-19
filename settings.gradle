@@ -1,0 +1,5 @@
+rootProject.name = 'jersey-base'
+
+include 'example-app'
+include 'jersey-server'
+
